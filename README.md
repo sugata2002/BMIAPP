@@ -13,9 +13,6 @@ To use the BMI calculator app, simply clone this repository and open the HTML fi
 ## Contribution
 Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
-## License
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Author
 This BMI calculator app is maintained by Sugata. Feel free to reach out for any questions or collaboration opportunities.
 
